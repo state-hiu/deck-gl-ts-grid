@@ -1,3 +1,9 @@
+## Notes for this project
+
+-Mapbox basemap had trouble loading in production. But followed these instructions: https://docs.mapbox.com/mapbox-gl-js/guides/install/#transpiling
+
+Adding the ignore option to Babel in webpack.config.js fixed it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
