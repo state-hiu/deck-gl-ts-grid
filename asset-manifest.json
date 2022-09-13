@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deck-gl-ts-grid/static/css/main.a249c514.css",
+    "main.js": "/deck-gl-ts-grid/static/js/main.630e5780.js",
+    "static/js/483.685877fe.chunk.js": "/deck-gl-ts-grid/static/js/483.685877fe.chunk.js",
+    "index.html": "/deck-gl-ts-grid/index.html",
+    "main.a249c514.css.map": "/deck-gl-ts-grid/static/css/main.a249c514.css.map",
+    "main.630e5780.js.map": "/deck-gl-ts-grid/static/js/main.630e5780.js.map",
+    "483.685877fe.chunk.js.map": "/deck-gl-ts-grid/static/js/483.685877fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a249c514.css",
+    "static/js/main.630e5780.js"
+  ]
+}
